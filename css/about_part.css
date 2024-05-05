@@ -38,3 +38,11 @@
   font-size: medium;
   line-height: 1.5;
 }
+
+@media (max-width: 900px) {
+  .nav_menu_list {
+    position: fixed;
+    top: 30%;
+    left: 1%;
+  }
+}
