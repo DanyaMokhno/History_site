@@ -80,11 +80,29 @@ header {
   box-shadow: 0 2px 10px rgba(53, 54, 53, 0.829);
   height: 300px;
   width: 200px;
+
+  background-size: cover;
+  background-position: center;
 }
 
 .news_item h5 {
   text-align: center;
+  color: #fff8f6;
+  background-color: #6d6d6db0;
+  /* position: absolute; */
 }
+
+.news_item a {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 300px;
+  width: 200px;
+}
+
+/* .news_item img {
+  position: relative;
+} */
 
 .news_item:hover {
   transform: translate(5px, -5px);
