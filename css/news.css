@@ -1,3 +1,12 @@
 .new {
   padding: 1%;
 }
+
+br {
+  height: 5px;
+  display: block;
+}
+
+.date {
+  padding-bottom: 9px;
+}
