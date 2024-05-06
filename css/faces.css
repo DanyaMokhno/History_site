@@ -1,3 +1,10 @@
 .bio {
   text-align: justify;
+  min-height: 250px;
+}
+
+.portret {
+  float: right;
+  padding: 9px;
+  max-height: 240px;
 }

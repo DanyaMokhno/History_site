@@ -2,11 +2,10 @@
   padding: 1%;
 }
 
-br {
-  height: 5px;
-  display: block;
+.descript {
+  padding-top: 10px;
 }
 
-.date {
-  padding-bottom: 9px;
+time {
+  font-style: italic;
 }
