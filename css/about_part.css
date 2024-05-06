@@ -46,3 +46,10 @@
     left: 1%;
   }
 }
+
+.list-group-item.active {
+  z-index: 2;
+  color: var(--bs-list-group-active-color);
+  background-color: #690606;
+  border-color: #800008;
+}
